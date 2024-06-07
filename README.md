@@ -8,7 +8,7 @@ Pour ce qui est des rendus, vous devrez rendre un fichier markdown (```README.md
 
 Tout rendu ne respectant pas ces consignes ou remis en retard ne sera pas corrigé.
 
-Lorsque vous voyez un emoji 🌞, cela signifie qu'il faut répondre à une question.
+Lorsque vous voyez un emoji 🌞, cela signifie qu'il faut répondre à une question et lorsqu'il s'agit d'un 🦈 c'est qu'il faut encoyer un PCAP.
 
 ## Sommaire
 

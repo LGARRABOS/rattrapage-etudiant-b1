@@ -54,7 +54,7 @@ Pour cette partie, vous allez devoir tester la connectivité entre deux machines
 
 Liste des machines :
 
-| Nom       | `10.1.1.0/24` |
+| Machine     | LAN `10.1.1.0/24` |
 | --------- | -------------- |
 | `etudiant` | `10.1.1.10`    |
 | `mentor`   | `10.1.1.11`    |

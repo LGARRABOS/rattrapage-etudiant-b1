@@ -12,6 +12,18 @@ Lorsque vous voyez un emoji 🌞, cela signifie qu'il faut répondre à une ques
 
 ## Sommaire
 
+[Pré-requis](#sommaire)
+
+[Partie 1 : Setup du patron](#partie-1--setup-du-patron)
+
+[Partie 2 : Premier test réseau](#partie-2--premier-test-réseau)
+
+[Partie 3 : Un petit peu de routage](#partie-3--un-petit-peu-de-routage)
+
+[Partie 4 : Web](#partie-4--web)
+
+[Partie 5 : DNS](#partie-5--dns)
+
 ## Pré-requis
 
 - Oracle VirtualBox
